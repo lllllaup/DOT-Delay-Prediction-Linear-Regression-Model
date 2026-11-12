@@ -1,0 +1,9 @@
+# Large DOT datasets
+*.parquet
+*.csv
+*.zip
+
+# Python temporary files
+__pycache__/
+*.pyc
+.venv/
